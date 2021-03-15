@@ -9,7 +9,7 @@
   "scripts": {
     "dev": "parcel src/index.html",
     "test": "parcel src/test/index.html",
-    "build": "parcel build dist"
+    "build": "parcel build src/index.html"
   },
   "repository": {
     "type": "git",
